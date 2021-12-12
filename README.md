@@ -51,8 +51,8 @@ The application will be available on `http://localhost:8080`.
        </plugin>
      </plugins>
    </build>
-<<<<<<< HEAD
-git tesing 123 changes
+
+git tase;lk;lkfds;lesing changes cannot nlkjlsd
 =======
 git tase;lk;lkfds;lesing changes
 >>>>>>> c3229583f2efe77bdee1ed4728016e40d386ef42
